@@ -251,7 +251,7 @@ from selenium.webdriver.common.keys import Keys
 
 # Interactive example:
 
-driver_path = '/Users/miame/Documents/GitHub/python_summer2022/Day4/Lecture/chromedriver'
+driver_path = '/Users/ysui/Documents/GitHub/python_summer2022/chromedriver'
 driver = webdriver.Chrome(driver_path)
 
 # start the web drivers
